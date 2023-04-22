@@ -7,6 +7,7 @@ ________________________________________________________________________________
 PASOS PARA LA INSTALACIÓN DEL PROYECTO EN UN EQUIPO LOCAL 
 
 PRIMER PASO
+
 Se Requiere la instalación de XAMPP en un equipo Windows 10. Inicializar el Servicio MySQL en xampp Control Panel.
 
 Ingresar al navegador y escribir localhost. Se abrirá una ventana de Xampp y en la barra de tareas abrimos phpMyAdmin.
@@ -38,10 +39,14 @@ https://gist.github.com/Nando98/2cd5fc89cb7cfbe9b5fba56220d05307
 
 __________________________________________________________________________________________________________________________________________
 
+TERCER PASO
+
 En el navegador procedemos a escribir lo siguiente: 
 http://localhost/carpeta_creada /
 Esta manera el proyecto se ejecutar en el navegador 
 
 _______________________________________________________________________________________________________________________________________
+
+VIDEO DE INSTALACIÓN Y EJECUCIÓN 
 
 
